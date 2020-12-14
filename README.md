@@ -1,4 +1,4 @@
-![DedSec Logo](/DedSec.png)
+![DedSec Logo](/DedSecPanel.png)
 # dedsec-panel
 Panel in development to make life easier for novice hackers
 
