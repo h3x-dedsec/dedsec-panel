@@ -14,4 +14,6 @@ https://www.mediafire.com/file/yikxgozjj742rf5/DedSec-PanelSetup.rar/file
 
 The Windows version is not yet stable, updates for bug fixes and new features will be released soon...
 
+![Panel](/Panel.png)
+
 Welcome to DedSec.
