@@ -16,4 +16,4 @@ The Windows version is not yet stable, updates for bug fixes and new features wi
 
 ![Panel](/Panel.png)
 
-Welcome to DedSec.
+# Welcome to DedSec.
